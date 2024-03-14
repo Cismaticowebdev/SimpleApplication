@@ -15,3 +15,5 @@
 
 ***
 
+Writing something to commit and trigger the pipeline
+in Circleci
