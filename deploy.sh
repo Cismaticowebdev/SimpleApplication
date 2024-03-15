@@ -7,6 +7,6 @@ pm2 stop example_app
 # change directory into folder where application is downloaded
 cd SimpleApplication/
 # Install application dependencies
-npm install
+/home/ubuntu/.nvm/versions/node/v20.11.1/bin/npm install
 # Start the application with the process name example_app using pm2
 pm2 start ./bin/www --name example_app
